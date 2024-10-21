@@ -1,0 +1,19 @@
+{
+  "name": "soralee",
+  "version": "1.0.0",
+  "description": "as always my 1st app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "happy"
+  ],
+  "author": "sonali singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
